@@ -14,10 +14,11 @@
 - 卡包：存储卡号和密码，可添加图片作为附件
 
 ## 截图
-|||
+
+| | |
 |:---:|:---:|:---:|
-|![](screenshot/screenshot_1.jpg)|![](screenshot/screenshot_2.jpg)|![](screenshot/screenshot_3.jpg)|
-|![](screenshot/screenshot_4.jpg)|![](screenshot/screenshot_5.jpg)||                                               |
+| ![](screenshot/screenshot_1.jpg) | ![](screenshot/screenshot_2.jpg) | ![](screenshot/screenshot_3.jpg) |
+| ![](screenshot/screenshot_4.jpg) | ![](screenshot/screenshot_5.jpg) | |
 
 ## 待实现
 
