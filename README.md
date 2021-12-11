@@ -17,8 +17,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](screenshot/screenshot_1.jpg) | ![](screenshot/screenshot_2.jpg) | ![](screenshot/screenshot_3.jpg) |
-| ![](screenshot/screenshot_4.jpg) | ![](screenshot/screenshot_5.jpg) | |
+| ![](screenshot/Screenshot_1.jpg) | ![](screenshot/Screenshot_2.jpg) | ![](screenshot/Screenshot_3.jpg) |
+| ![](screenshot/Screenshot_4.jpg) | ![](screenshot/Screenshot_5.jpg) | |
 
 ## 待实现
 
