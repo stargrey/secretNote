@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_soft"
+        android:title="排序"
+        android:icon="@drawable/ic_soft"
+        app:iconTint="?attr/colorControlNormal"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_search"
+        android:title="搜索"
+        android:icon="@drawable/ic_search"
+        app:iconTint="?attr/colorControlNormal"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        />
+</menu>

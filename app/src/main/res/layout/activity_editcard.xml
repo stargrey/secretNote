@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/addContent_Scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="70dp"
+        app:layout_constraintBottom_toTopOf="@id/addContentBtn"
+        app:layout_constraintTop_toTopOf="parent">
+        <!-- 标题 -->
+        <LinearLayout
+            android:id="@+id/content_LinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/titleTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="标题" />
+
+            <EditText
+                android:id="@+id/edittext_title"
+                android:layout_width="match_parent"
+                android:layout_height="60dp" />
+            <!-- 卡号 -->
+            <TextView
+                android:id="@+id/cardNumberTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="卡号" />
+
+            <EditText
+                android:id="@+id/editText_cardNumber"
+                android:layout_width="match_parent"
+                android:layout_height="60dp" />
+            <!-- 密码 -->
+            <!--
+            <TextView
+                android:id="@+id/cardPasswd_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="密码" />
+
+                <EditText
+                android:id="@+id/edittext_cardPasswd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+                -->
+
+            <include layout="@layout/segment_pwd_edittext_imagebtn"
+                android:id="@+id/edittextLayout_cardpassword"/>
+
+
+            <!-- 备注 -->
+            <TextView
+                android:id="@+id/noteTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="备注" />
+
+            <EditText
+                android:id="@+id/edittext_note"
+                android:layout_width="match_parent"
+                android:layout_height="60dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addContentBtn"
+        android:minHeight="60dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        app:cornerRadius="30dp"
+        android:text="保存密码"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <!--
+    <Button
+        android:id="@+id/addContentBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="保存"
+        app:layout_constraintBottom_toBottomOf="parent" />
+        -->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

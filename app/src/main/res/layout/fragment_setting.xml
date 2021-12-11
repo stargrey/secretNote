@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/setting_LinearLayout"
+            android:orientation="vertical" >
+
+            <include layout="@layout/segment_setting_content"
+                android:id="@+id/setPasswordHint"/>
+
+            <include layout="@layout/segment_setting_content"
+                android:id="@+id/changePassword"/>
+
+            <include layout="@layout/segment_setting_content"
+                android:id="@+id/useFingerprint"/>
+
+            <include layout="@layout/segment_setting_content"
+                android:id="@+id/notStorePassword"/>
+
+            <include layout="@layout/segment_setting_content"
+                android:id="@+id/useAndroidBiometric"/>
+
+            <include layout="@layout/segment_setting_content"
+                android:id="@+id/secureScreen"/>
+
+            <include layout="@layout/segment_setting_content"
+                android:id="@+id/closeDBWhenPause"/>
+
+            <include layout="@layout/segment_setting_content"
+                android:id="@+id/hideInTask"/>
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

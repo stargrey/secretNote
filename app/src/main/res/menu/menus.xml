@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tab1"
+        android:icon="@drawable/icon_password"
+        android:title="密码箱"/>
+
+    <item android:id="@+id/tab2"
+        android:icon="@drawable/icon_notes"
+        android:title="记录箱"/>
+
+    <item android:id="@+id/tab3"
+        android:icon="@drawable/icon_card"
+        android:title="卡包"/>
+
+    <item android:id="@+id/tab4"
+        android:icon="@drawable/icon_setting"
+        android:title="设置"/>
+</menu>

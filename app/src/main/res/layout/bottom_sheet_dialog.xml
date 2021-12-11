@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/titleTV_bottomSheet"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="Title"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/deleteBtn_bottomSheet"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/icon_delete"
+        app:layout_constraintEnd_toStartOf="@id/editBtn_bottomSheet"
+        app:layout_constraintTop_toTopOf="@id/titleTV_bottomSheet"
+        app:layout_constraintBottom_toBottomOf="@id/titleTV_bottomSheet"/>
+
+    <ImageButton
+        android:id="@+id/editBtn_bottomSheet"
+        android:layout_width="23dp"
+        android:layout_height="23dp"
+        android:background="@drawable/icon_edit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/titleTV_bottomSheet"
+        app:layout_constraintBottom_toBottomOf="@id/titleTV_bottomSheet"/>
+
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+
+        app:layout_constraintTop_toBottomOf="@id/titleTV_bottomSheet">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/content_LinearLayout"
+            android:orientation="vertical">
+
+            <include
+                android:id="@+id/usernameTV_bottomSheet"
+                layout="@layout/segment_title_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <include
+                android:id="@+id/passwordTV_bottomSheet"
+                layout="@layout/segment_title_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <include
+                android:id="@+id/websiteTV_bottomSheet"
+                layout="@layout/segment_title_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <include
+                android:id="@+id/notesTV_bottomSheet"
+                layout="@layout/segment_title_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/time_TV"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

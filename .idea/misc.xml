@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/edittet_focused.xml" value="0.24102564102564103" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/edittext_common.xml" value="0.24102564102564103" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/edittext_focused.xml" value="0.24102564102564103" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/edittext_shape.xml" value="0.24102564102564103" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/edittext_shape_selector.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/ic_launcher_icon_background.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/ic_launcher_icon_foreground.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/item_empty_shape.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/item_recyclerview_shape.xml" value="0.10052083333333334" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawable/item_ripple_ontouch.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawables/icons/drawable/ic_launcher_icon_foreground2.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawables/icons/drawable/ic_search.xml" value="0.25925925925925924" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/drawables/icons/drawable/ic_soft.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_addcontent.xml" value="0.1765625" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_editcard.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_editnotes.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_editpassword.xml" value="0.2" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_photoview.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_setpassword.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_start.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_tool_bar.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/activity_updatapassword.xml" value="0.264" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/dialog_card_info.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/dialog_changepassword.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/dialog_securerandom.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/dialog_selection_app.xml" value="0.2" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/fragment_cards.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/fragment_home.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/fragment_notes.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/fragment_setting.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/fragment_text.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/item_app_recyclerview.xml" value="0.4" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/item_card_recyclerview.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/item_home_recyclerview.xml" value="0.2078125" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/item_image_layout.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/item_notes_recyclerview.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/item_recyclerview.xml" value="0.1" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/item_title_content.xml" value="0.1671875" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/segment_dividing_line.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/segment_pwd_edittext_imagebtn.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/segment_setting_content.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/segment_title_content.xml" value="0.190625" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/segment_title_content_imagebtn.xml" value="0.203125" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/segment_title_edit.xml" value="0.190625" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/segment_title_edittext.xml" value="0.190625" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/layout/segment_title_edittext_imagebtn.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/menu/activity_edit_menu.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/menu/activity_editnote_menu.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/menu/activity_toolbar_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/menu/menus.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/cipher/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14074074074074075" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
