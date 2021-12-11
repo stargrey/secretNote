@@ -15,7 +15,7 @@
 
 ## 截图
 
-| | |
+| | | |
 |:---:|:---:|:---:|
 | ![](screenshot/screenshot_1.jpg) | ![](screenshot/screenshot_2.jpg) | ![](screenshot/screenshot_3.jpg) |
 | ![](screenshot/screenshot_4.jpg) | ![](screenshot/screenshot_5.jpg) | |
